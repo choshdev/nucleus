@@ -3,6 +3,8 @@ A javascript-based generative art system inspired by classic synthesizers and an
 
 ![NP03_001.png](https://github.com/choshdev/nucleus/blob/main/NP03_001.png?raw=true)
 
+# On Licensing, Open Source, and Derivative Works
+
 NUCLEUS is licensed under the GNU General Public License v3.0 (GPL-3.0) GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007. Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/
 
