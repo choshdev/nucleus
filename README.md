@@ -1,7 +1,9 @@
-# nucleus
-A javascript-based generative art system inspired by classic synthesizers and analog phone switching
+# NUCLEUS
+A React-based generative art system inspired by classic synthesizers and analog phone switching
 
 ![NP03_001.png](https://github.com/choshdev/nucleus/blob/main/NP03_001.png?raw=true)
+
+# About NUCLEUS
 
 # On Licensing, Open Source, and Derivative Works
 
