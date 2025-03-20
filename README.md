@@ -1,5 +1,5 @@
 # NUCLEUS
-A React-based generative art system inspired by classic synthesizers and analog phone switching
+A p5.js generative art system inspired by classic synthesizers and analog phone switching
 
 ![NP03_001.png](https://github.com/choshdev/nucleus/blob/main/NP03_001.png?raw=true)
 
